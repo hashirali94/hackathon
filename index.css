@@ -1,0 +1,105 @@
+#resume-preview {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-image: linear-gradient(to bottom, #ff99cc, #ffcccc);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #00698f;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    background-color: #f7f7f7;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background-color: #f7f7f7;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+#resume-preview h3 {
+    color: #00698f;
+}
+
+#resume-preview p {
+    color: #666;
+}
+
+body {
+    font-size: 18px;                                                              /* Increase the font size to 18px */
+}
+
+h1 {
+    font-size: 36px;                                                             /* Increase the font size of the heading to 36px */
+}
+
+label {
+    font-size: 18px;                                                                  /* Increase the font size of the labels to 18px */
+}
+
+input, textarea {
+    font-size: 18px;                                                                         /* Increase the font size of the input fields to 18px */
+}
+
+button {
+    font-size: 18px;                                                           /* Increase the font size of the button to 18px */
+}
+
+#resume-preview1{
+    font-size: 18px;                                                                 /* Increase the font size of the resume preview to 18px */
+}
+
+#resume-preview h3 {
+    font-size: 24px;                                                           /* Increase the font size of the resume preview headings to 24px */
+}
+
